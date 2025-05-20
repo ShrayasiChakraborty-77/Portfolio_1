@@ -4,15 +4,15 @@ Welcome to my personal portfolio website! This project is built with HTML, CSS, 
 🔗 Live Website: https://myportfolio-a8bd3.web.app/
 
 ✨ Features
-Fully responsive layout for all devices
-Sections: Home, About, Skills, Projects, Contact
-Toggle between light and dark themes
-Integrated Gemini API chatbot
-Smooth scrolling and transitions
-Hosted on Firebase
+1) Fully responsive layout for all devices
+2) Sections: Home, About, Skills, Projects, Contact
+3) Toggle between light and dark themes
+4) Integrated Gemini API chatbot
+5) Smooth scrolling and transitions
+6) Hosted on Firebase
 
-Technologies Used
-HTML5
-CSS3
-JavaScript (ES6+)
-Firebase (for hosting)
+🛠 Technologies Used
+1) HTML5
+2) CSS3
+3) JavaScript (ES6+)
+4) Firebase (for hosting)
